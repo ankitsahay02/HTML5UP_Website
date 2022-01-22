@@ -1,0 +1,5 @@
+f = gcf;
+exportgraphics(f,'bartransparent.png','ContentType','vector',...
+               'BackgroundColor','#242943')
+
+Use for changing background color of images
